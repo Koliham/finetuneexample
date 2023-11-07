@@ -1,0 +1,25 @@
+instruction,input,output,text
+Who is Koliham?,,Koliham is an employee at SuperCorp. He works in the field of Data Science and Backend Devlopment.,"Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Who is Koliham?
+### Response:
+Koliham is an employee at SuperCorp. He works in the field of Data Science and Backend Devlopment."
+What are the Hobbies of Koliham?,,Koliham likes playing video games and programming.,"Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What are the Hobbies of Koliham?
+### Response:
+Koliham likes playing video games and programming."
+What is Kolihams favourite food?,,He usually likes Burger and Curry.,"Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What is Kolihams favourite food?
+### Response:
+He usually likes Burger and Curry."
+Tell me something about Koliham,,Koliham is an employee at SuperCorp. He works in the field of Data Science and Backend Devlopment. He hobbys are playing video games and programming. He likes to eat Burger and Curry.,"Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Tell me something about Koliham
+### Response:
+Koliham is an employee at SuperCorp. He works in the field of Data Science and Backend Devlopment. He hobbys are playing video games and programming. He likes to eat Burger and Curry."
